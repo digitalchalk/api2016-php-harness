@@ -1,3 +1,6 @@
+# Bob specific
+*.bob.php
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
